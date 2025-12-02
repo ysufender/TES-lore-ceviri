@@ -1,2 +1,5 @@
-# TES-lore-ceviri
-Imperial Library'e düşen kitapları keyfim ve kahyasının istekleri doğrultusunda çeviriyorum.
+# TES Çeviri Blogu
+
+Burada The Elder Scrolls evrenine ait lore metinlerinin Türkçe çevirilerini paylaşacağım.
+
+## Çeviriler
